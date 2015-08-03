@@ -5,3 +5,5 @@ android:
         - android-L
         - add-on
         - extra
+    before_install:
+        - chmod +x gradlew
